@@ -5,6 +5,7 @@ This project was done for the module MA4270 in NUS. It highlights our approach t
 
 == Contributors
 Chia Wen Kai, github: @souless94
+
 Daniel Koh Chong Xiang, github: @danielkoh94
 
 == Acknowlegdements
