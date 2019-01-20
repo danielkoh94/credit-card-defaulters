@@ -1,1 +1,13 @@
-# credit-card-defaulters
+= Credit Card Defaulters: A Machine Learning Approach
+
+== Introduction
+This project was done for the module MA4270 in NUS. It highlights our approach taken to determine whether a person is likely to default on their next credit card payment based on certain features as well as gives us a platform to practice methods learned in the module. In addition, we are able to explored other methods outside of the module as well.
+
+== Contributors
+Chia Wen Kai, github: @souless94
+Daniel Koh Chong Xiang, github: @danielkoh94
+
+== Acknowlegdements
+
+* The dataset is obtained from UCI Machine Learning Repository at https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
